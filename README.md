@@ -29,10 +29,15 @@ ARTI403/
 ├── Lab1/
 │   ├── Lab1_Basics_of_Programming_with_Python.ipynb
 │   └── output/                              # images written by the notebook
-└── Lab2/
-    ├── Lab2_Digital_Image_Fundamentals.ipynb
-    └── output/                              # images written by the notebook
+├── Lab2/
+│   ├── Lab2_Digital_Image_Fundamentals.ipynb
+│   └── output/                              # images written by the notebook
+├── Lab3/  ...  Lab12/                       # one folder per remaining session
+└── ...
 ```
+
+The folders of the labs that have not been delivered yet contain only a placeholder
+`README.md`; the notebook and its `output/` folder are added when the lab is done.
 
 ## Labs
 
@@ -40,6 +45,16 @@ ARTI403/
 |-----|-------|----------|----------|
 | 1 | Basics of programming with Python | [Lab1_Basics_of_Programming_with_Python.ipynb](Lab1/Lab1_Basics_of_Programming_with_Python.ipynb) | Environment setup; Python & NumPy cheat-sheet exercises; loading and visualizing images with OpenCV and PIL; storing images; displaying an image as an array; NumPy operations on the image array |
 | 2 | Digital image fundamentals | [Lab2_Digital_Image_Fundamentals.ipynb](Lab2/Lab2_Digital_Image_Fundamentals.ipynb) | Sampling and quantization; arithmetic operations; sets and logical operations; **Task 1** effect of the sampling and quantization parameters; **Task 2** subtraction, adding a constant of 175, set difference, symmetric difference and intersection |
+| 3 | *to be announced* | [Lab3/](Lab3/) | not delivered yet |
+| 4 | *to be announced* | [Lab4/](Lab4/) | not delivered yet |
+| 5 | *to be announced* | [Lab5/](Lab5/) | not delivered yet |
+| 6 | *to be announced* | [Lab6/](Lab6/) | not delivered yet |
+| 7 | *to be announced* | [Lab7/](Lab7/) | not delivered yet |
+| 8 | *to be announced* | [Lab8/](Lab8/) | not delivered yet |
+| 9 | *to be announced* | [Lab9/](Lab9/) | not delivered yet |
+| 10 | *to be announced* | [Lab10/](Lab10/) | not delivered yet |
+| 11 | *to be announced* | [Lab11/](Lab11/) | not delivered yet |
+| 12 | *to be announced* | [Lab12/](Lab12/) | not delivered yet |
 
 ## Requirements
 
