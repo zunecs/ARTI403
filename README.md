@@ -32,7 +32,7 @@ ARTI403/
 ├── Lab2/
 │   ├── Lab2_Digital_Image_Fundamentals.ipynb
 │   └── output/                              # images written by the notebook
-├── Lab3/  ...  Lab12/                       # one folder per remaining session
+├── Lab3/  ...  Lab10/                       # one folder per remaining session
 └── ...
 ```
 
@@ -53,8 +53,6 @@ The folders of the labs that have not been delivered yet contain only a placehol
 | 8 | *to be announced* | [Lab8/](Lab8/) | not delivered yet |
 | 9 | *to be announced* | [Lab9/](Lab9/) | not delivered yet |
 | 10 | *to be announced* | [Lab10/](Lab10/) | not delivered yet |
-| 11 | *to be announced* | [Lab11/](Lab11/) | not delivered yet |
-| 12 | *to be announced* | [Lab12/](Lab12/) | not delivered yet |
 
 ## Requirements
 
