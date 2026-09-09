@@ -6,10 +6,10 @@ Imam Abdulrahman Bin Faisal University — 2026 / 2027
 
 | | |
 |---|---|
-| **Student name** | *&lt;write your name here&gt;* |
-| **Student ID** | *&lt;write your ID here&gt;* |
-| **Section** | *&lt;write your section here&gt;* |
-| **Instructor** | *&lt;write your instructor's name here&gt;* |
+| **Student name** | *&lt;Abdulrahman Saleh Alaamri&gt;* |
+| **Student ID** | *&lt;2240002427&gt;* |
+| **Section** | *&lt;Computer Engineering&gt;* |
+| **Instructor** | *&lt;Dr. Aftab Khan&gt;* |
 
 This is the single repository used for the whole course, as required by the student guidelines.
 One folder is added per lab session, and every lab is delivered as a Jupyter notebook that is
